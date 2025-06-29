@@ -116,4 +116,5 @@ View message history
 | **Environment Configuration** | Separate dev/staging/prod settings                       |
 
 
-![alx-airbnb-project-documentation](alx-airbnb-project-documentation/features-and-functionalities/Airbnb_Backend_ Features.png) 
+![Airbnb Backend Features](features-and-functionalities/Airbnb_Backend_Features.png)
+
