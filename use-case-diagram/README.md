@@ -19,7 +19,7 @@ The Use Case Diagram provides a high-level overview of the interactions between 
 
 ### 🖼️ Diagram
 
-![Use Case Diagram](use-case-diagram/useCaseDiagram.png)
+![Use Case Diagram](/useCaseDiagram.png)
 
 
 
