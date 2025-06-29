@@ -115,3 +115,5 @@ View message history
 | **Database Indexing**         | Optimize performance on foreign keys, email, booking\_id |
 | **Environment Configuration** | Separate dev/staging/prod settings                       |
 
+
+![features-and-functionalities](Airbnb Backend Features.png) 
