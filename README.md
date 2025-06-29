@@ -116,4 +116,4 @@ View message history
 | **Environment Configuration** | Separate dev/staging/prod settings                       |
 
 
-![features-and-functionalities](Airbnb Backend Features.png) 
+![Documenting Project Features and Functionalities](features-and-functionalities/Airbnb Backend Features.png) 
